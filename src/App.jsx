@@ -9,7 +9,7 @@ function App() {
         <h3>Welcome to React!</h3>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="/xml"
           target="_blank"
           rel="noopener noreferrer"
         >
